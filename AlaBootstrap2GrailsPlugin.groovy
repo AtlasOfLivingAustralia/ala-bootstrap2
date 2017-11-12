@@ -25,7 +25,7 @@ Plugin to provide the ALA footer and header skin to an app.
     def license = "MPL2"
 
     // Details of company behind the plugin (if there is one)
-    def organization = [ name: "Atlas of Living Australia", url: "http://www.ala.org.au/" ]
+    def organization = [ name: "Atlas of Living Australia", url: "https://www.ala.org.au/" ]
 
     // Any additional developers beyond the author specified above.
     def developers = [ [ name: "Angel Ruiz", email: "aruizca@gmail.com" ], [ name: "Nick dos Remedios", email: "nickdos@gmail.com" ]]
